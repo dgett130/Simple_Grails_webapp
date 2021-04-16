@@ -2,6 +2,8 @@ package com.grails_webapp
 
 class Player {
 
+    /* commento */
+
     static belongsTo = [team : Team]
 
     String name
